@@ -1,4 +1,4 @@
-﻿# Web3 & Data Toolbox (Web3 与数据全能工具箱)
+# Web3 & Data Toolbox (Web3 与数据全能工具箱)
 
 基于 Next.js 构建的多功能自动化与数据处理平台，聚合了账号运营、数据清洗、Web3 工具等 17 款高效率脚本，支持源码运行与独立打包分发。
 
@@ -119,6 +119,6 @@ pm2 start npm --name "toolbox" -- start
 
 ---
 
-## 贡献与反馈
-- 欢迎通过 Issue / PR 提交问题或改进建议。
-- 使用过程中如遇异常，可附操作步骤与日志在仓库反馈。
+## 🤝 贡献与反馈
+
+如果您在使用过程中发现 Bug 或有新功能建议，请提交 Issue 或 Pull Request。
